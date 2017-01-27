@@ -1,0 +1,18 @@
+button {
+    /*width: 190px;*/
+    text-align: center;
+    font-size: 60px;
+}
+
+h2
+{
+    font-family: Calibri;
+    color: #bada55;
+    font-size: 60px;
+}
+
+body
+{
+    padding-top: 170px;
+    text-align: center;
+}
